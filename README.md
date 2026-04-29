@@ -61,7 +61,6 @@
 
 <p align="center">
   <i>⭐ Star my repos if you find them useful!</i>
-</p>## Hi there 👋
 
 <!--
 **jiiidaaan/jiiidaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
