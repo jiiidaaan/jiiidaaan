@@ -40,13 +40,27 @@
 ## 🚀 Featured Projects
 
 ### 🔢 [MNIST Handwritten Digit Classifier](https://github.com/jiiidaaan/MNIST-Project.git)
-> Neural network built from scratch to classify handwritten digits with ~98% test accuracy
+> Neural network built from scratch to classify handwritten digits with ~97% test accuracy
 
 - Built multi-layer neural network using TensorFlow/Keras
 - Implemented full preprocessing pipeline — normalisation, flattening, one-hot encoding
 - Applied Dropout & Early Stopping to prevent overfitting
 - Evaluated with confusion matrix, precision, recall & F1 score
 - **Tech:** Python · TensorFlow · Keras · NumPy · Matplotlib · Scikit-learn
+
+### 🍃 [Campus Carbon Challenge – Carbon Tracking & Gamified Sustainability System](https://github.com/Pure1359/DeepCurrent-Project.git)
+Collaborated in a team to develop a full-stack web application that helps users understand and reduce their carbon footprint through a gamified challenge system. The platform combines carbon emissions modelling, user interaction, and data visualisation to encourage sustianable behaviour. 
+
+```
+👥 Role: Data lead
+Focused on designing and managing the database.
+```
+
+### 🧮 My Contributions
+- Developed the CO₂e calculation for energy category using UK government conversion factors
+- Wrote documentations for the design process of the database so the back-end team can implement it with ease. 
+- Supported dashboard data outputs
+  
 
 ---
 
