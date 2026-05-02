@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist & Data Analyst</h3>
 
 <p align="center">
-  <a href="linkedin.com/in/khai-yuan-kam-0a963a271">
+  <a href="https://www.linkedin.com/in/khai-yuan-kam-0a963a271/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9zVytE97SEqyaHMzRlzZsw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Kkyuan0311@gmail.com">
