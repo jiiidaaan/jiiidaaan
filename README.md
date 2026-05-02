@@ -49,7 +49,7 @@
 - **Tech:** Python · TensorFlow · Keras · NumPy · Matplotlib · Scikit-learn
 
 ### 🍃 [Campus Carbon Challenge – Carbon Tracking & Gamified Sustainability System](https://github.com/Pure1359/DeepCurrent-Project.git)
-Collaborated in a team to develop a full-stack web application that helps users understand and reduce their carbon footprint through a gamified challenge system. The platform combines carbon emissions modelling, user interaction, and data visualisation to encourage sustianable behaviour. 
+> Collaborated in a team to develop a full-stack web application that helps users understand and reduce their carbon footprint through a gamified challenge system. The platform combines carbon emissions modelling, user interaction, and data visualisation to encourage sustianable behaviour. 
 
 ```
 👥 Role: Data lead
